@@ -1,5 +1,4 @@
 # TaskRelated
-Stimulus and analysis code for for PLOS Biology paper on task related activity in visual cortex
 
 The code in this repository contains all the MATLAB software used to analyze the data and generate the figures for the following publication: 
 Roth, ZN, Ryoo, M, and Merriam, EP (2020). Task-related activity in human visual cortex. (DOI: XXXXXX).
