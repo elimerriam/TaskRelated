@@ -18,6 +18,7 @@ Order in which to run scripts:
 * saveTaskEyeData.m
 * saveTaskData.m
 * saveTaskData_localizer.m
+* saveControlData.m
 
 (generate figures)
 * fig2.m
