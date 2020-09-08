@@ -17,6 +17,7 @@ Order in which to run scripts:
 * saveTaskEyeData.m
 * saveTaskData.m
 * saveTaskData_localizer.m
+* saveTaskDataPhysio.m
 * saveControlData.m
 
 (generate figures)
@@ -33,3 +34,4 @@ Order in which to run scripts:
 (statistical significance of results)
 * permutationTest.m
 * permutationTest_pupil.m
+* permutationTest_pulse.m
